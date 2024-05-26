@@ -1,7 +1,5 @@
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcom%20to%20igson%27s%20github%21&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=60&descAlignY=44)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
