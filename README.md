@@ -7,12 +7,14 @@
 <br/>
 
 <!--내용 부분-->
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGSON2&layout=pie"/>&nbsp
 </div>
 
 <br/>
 <br/>
+-->
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
