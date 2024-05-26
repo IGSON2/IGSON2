@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20blockchain%21&fontSize=70&color=0:8871e5,100:00ADD8&stroke=00ADD8"/>&nbsp
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%20Blockchain&fontSize=70&color=0:8871e5,100:00ADD8&stroke=00ADD8"/>&nbsp
 </div>
 
 <br/>
